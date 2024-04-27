@@ -23,7 +23,7 @@ Whether you're a busy professional, a student, or a homemaker,  to-do list websi
 Say goodbye to missed deadlines and hello to a more productive and fulfilling life.
 
 ![Screenshot (21)](https://github.com/Su64gi/COD-TO-DO-LIST-/assets/155756162/98289222-5a37-45ef-9456-27af0c393db9)
-![Screenshot (22)](https://github.om/Su64gi/COD-TO-DO-LIST-/assets/155756162/bc25320f-f940-4b11-ab1f-97675d21a3b1)
+![Screenshot (22)](https://github.com/Su64gi/COD-TO-DO-LIST-/assets/155756162/bef0beab-8937-4b22-82b9-2383b1874024)
 ![Screenshot (23)](https://github.com/Su64gi/COD-TO-DO-LIST-/assets/155756162/be2680b6-3f03-49e9-9e3b-1d311cae0d77)
 ![Screenshot (24)](https://github.com/Su64gi/COD-TO-DO-LIST-/assets/155756162/a1abaf0b-75b6-4057-9132-f40e2f5c7b6c)
 
