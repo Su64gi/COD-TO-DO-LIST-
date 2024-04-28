@@ -3,6 +3,7 @@ Id:COD7070
 Domain:Web Development
 Duration:20TH APRIL 2024 to 20TH MAY 2024
 Mentor:sravani gouni
+Website link:https://sugi-to-do-list.netlify.app/
 
 Description:
 In today’s fast-paced world, staying organized is key to success. Whether you’re managing personal tasks, professional projects, or academic assignments, keeping track of everything
